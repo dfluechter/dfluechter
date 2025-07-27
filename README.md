@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hello, I'm Dominik, a german Data-Analyst with Full-Stack-Developer Background<br><br>🔭 I’m currently working on my Portfolio<br>🌱 I’m currently learning Deep-Learning <br>💬 Ask me about collaborate projects
+Hello, I'm Dominik, a Data-Analyst with Full-Stack-Developer Background from 🇩🇪<br><br>
+<!--🔭 I’m currently working on my Portfolio<br>
+🌱 I’m currently learning Deep-Learning <br>-->
+💬 Ask me about collaborate projects
 
 
 ## 🌐 Socials:
