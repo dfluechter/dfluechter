@@ -36,10 +36,9 @@ Hello, I'm Dominik, a Data-Analyst with Full-Stack-Developer Background from ðŸ‡
   <img src="https://github-profile-trophy.vercel.app/?username=dfluechter&theme=date_night&no-frame=false&no-bg=true&margin-w=4" width="855"/>
 </p>
 
----
 <p align="center">
   [![](https://visitcount.itsvg.in/api?id=dfluechter&icon=4&color=0)](https://visitcount.itsvg.in) alt="Visitor Count"/>
-  </a>
+  </p>
 </p>
 
 
