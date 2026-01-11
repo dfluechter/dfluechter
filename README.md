@@ -38,7 +38,8 @@ Hello, I'm Dominik, a Data-Analyst with Full-Stack-Developer Background from ðŸ‡
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dfluechter&icon=4&color=0" alt="Visitor Count"/>
+  [![](https://visitcount.itsvg.in/api?id=dfluechter&icon=4&color=0)](https://visitcount.itsvg.in) alt="Visitor Count"/>
   </a>
 </p>
+
+
