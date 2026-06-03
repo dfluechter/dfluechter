@@ -19,19 +19,3 @@ Hello, I'm Dominik, a Data-Analyst with Full-Stack-Developer Background from �
 
 ### Database
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" height="20"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Couchbase-EA2328?style=flat&logo=couchbase&logoColor=white" height="20">
-
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dfluechter&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" width="495" hspace="5"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfluechter&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="350" hspace="5"/>
-</p>
-
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dfluechter&theme=midnight-purple&hide_border=false" width="855"/>
-</p>
-
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=dfluechter&theme=date_night&no-frame=false&no-bg=true&margin-w=4" width="855"/>
-</p>
