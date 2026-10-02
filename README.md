@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo_df_2.png" alt="Dominik Flüchter" width="160" />
+</p>
+
 # 💫 About Me
 Hello, I'm **Dominik**, a Data Analyst with a Full-Stack Developer background from 🇩🇪
 
@@ -9,9 +13,30 @@ Hello, I'm **Dominik**, a Data Analyst with a Full-Stack Developer background fr
 
 ## 🌐 Connect With Me
 
-| LinkedIn | X (Twitter) | Credly | Email |
-| :---: | :---: | :---: | :---: |
-| <a href="https://linkedin.com/in/dfluechter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" /></a> | <a href="https://x.com/FluchterDominik"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X" width="36" height="36" /></a> | <a href="https://www.credly.com/users/dfluechter/badges/credly"><img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="36" height="36" /></a> | <a href="mailto:dominik.fluechter@web.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" /></a> |
+<table>
+  <tr>
+    <td align="center" width="165" height="55">
+      <a href="https://linkedin.com/in/dfluechter">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center" width="165" height="55">
+      <a href="https://x.com/FluchterDominik">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+      </a>
+    </td>
+    <td align="center" width="165" height="55">
+      <a href="https://www.credly.com/users/dfluechter/badges/credly">
+        <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+      </a>
+    </td>
+    <td align="center" width="165" height="55">
+      <a href="mailto:dominik.fluechter@web.de">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -19,33 +44,130 @@ Hello, I'm **Dominik**, a Data Analyst with a Full-Stack Developer background fr
 
 ### Data Science & Machine Learning
 
-| Tool | Tool | Tool | Tool |
-| :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br><sub><b>Pandas</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br><sub><b>NumPy</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/><br><sub><b>Scikit-Learn</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/><br><sub><b>PyTorch</b></sub> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/><br><sub><b>TensorFlow</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/><br><sub><b>Keras</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/><br><sub><b>Matplotlib</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/><br><sub><b>Plotly</b></sub> |
+<table>
+  <tr>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+    </td>
+    <td align="center" width="165" height="55"></td>
+    <td align="center" width="165" height="55"></td>
+    <td align="center" width="165" height="55"></td>
+  </tr>
+</table>
 
 ---
 
 ### Data Engineering & Cloud
 
-| Tool | Tool | Tool | Tool |
-| :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Spark"/><br><sub><b>Spark</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/><br><sub><b>Kafka</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Airflow"/><br><sub><b>Airflow</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="40" height="40" alt="Hadoop"/><br><sub><b>Hadoop</b></sub> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/><br><sub><b>AWS</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/><br><sub><b>Azure</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP"/><br><sub><b>Google Cloud</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br><sub><b>Docker</b></sub> |
+<table>
+  <tr>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Full-Stack Development
 
-| Tool | Tool | Tool | Tool |
-| :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br><sub><b>Python</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/><br><sub><b>Django</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br><sub><b>JavaScript</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br><sub><b>TypeScript</b></sub> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br><sub><b>Node.js</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/><br><sub><b>React</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/><br><sub><b>Vue.js</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/><br><sub><b>Tailwind CSS</b></sub> |
+<table>
+  <tr>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Databases
 
-| Tool | Tool | Tool |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br><sub><b>PostgreSQL</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br><sub><b>MongoDB</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchbase/couchbase-original.svg" width="40" height="40" alt="Couchbase"/><br><sub><b>Couchbase</b></sub> |
+<table>
+  <tr>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+    <td align="center" width="165" height="55">
+      <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" alt="Couchbase" />
+    </td>
+    <td align="center" width="165" height="55"></td>
+  </tr>
+</table>
