@@ -9,9 +9,9 @@ Hello, I'm **Dominik**, a Data Analyst with a Full-Stack Developer background fr
 
 ## 🌐 Connect With Me
 
-| LinkedIn | Medium | X (Twitter) | Email |
+| LinkedIn | X (Twitter) | Credly | Email |
 | :---: | :---: | :---: | :---: |
-| <a href="https://linkedin.com/in/dfluechter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" /></a> | <a href="https://medium.com/@dfluechter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" alt="Medium" width="36" height="36" /></a> | <a href="https://x.com/FluchterDominik"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X" width="36" height="36" /></a> | <a href="mailto:dominik.fluechter@web.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" /></a> |
+| <a href="https://linkedin.com/in/dfluechter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" /></a> | <a href="https://x.com/FluchterDominik"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X" width="36" height="36" /></a> | <a href="https://www.credly.com/users/dfluechter/badges/credly"><img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="36" height="36" /></a> | <a href="mailto:dominik.fluechter@web.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" /></a> |
 
 ---
 
